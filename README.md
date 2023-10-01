@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/hiteshsalunkh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshsalunkh17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hitesh-salunkhe-aa8b2521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hitesh-salunkhe-aa8b2521a/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/hitesh_82_104?igshid=nzzlodbkywe4ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hitesh_82_104?igshid=nzzlodbkywe4ng==" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/hiteshsaltq68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hiteshsaltq68" height="30" width="40" /></a>
 </p>
 
